@@ -1,0 +1,18 @@
+@media (max-width:768px){
+
+    
+   main{
+   max-width: 1400px;
+    padding:0%
+   }
+   .pet-options{
+    flex-direction: column;
+   }
+   img{
+    height: 300px;
+    width: 300px;
+   }
+   .pet-option{
+    line-height: 10%;
+   }
+}
